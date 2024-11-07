@@ -63,7 +63,7 @@ public class _02Preorder {
 
         build tree = new build();
 
-        //CALLING THE BuildTree functio =n and noting that this function has a return tyoe of NODE
+        //CALLING THE BuildTree function and noting that this function has a return type of NODE
         NODE root = tree.BuildTree(nodes);
         System.out.println(root.data);
 
