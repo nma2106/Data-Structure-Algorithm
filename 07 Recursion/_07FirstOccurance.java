@@ -24,5 +24,7 @@ public class _07FirstOccurance {
         // Call function and store the result
         boolean isSorted = function(a, 0);
         System.out.println("Is array sorted? " + isSorted);
+
+        System.out.println("tak the worldout  fot he formation ");
     }
 }
